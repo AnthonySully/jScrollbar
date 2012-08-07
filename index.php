@@ -21,6 +21,12 @@
 </head>
 <body>
 
+<ul>
+	<li>Full documentation on <a href="http://www.myjqueryplugins.com/jScrollbar">MyjQueryPlugins.com/jScrollbar</a></li>
+	<li>Live demonstration on <a href="http://www.myjqueryplugins.com/jScrollbar/demo">jScrollbar demonstration page</a></li>
+</ul>
+<h1>jScrollbar plugin</h1>
+
 <!-- EXEMPLE 1 -->
 <div class="jScrollbar1">
 	<div class="jScrollbar_mask">
