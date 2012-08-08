@@ -125,7 +125,7 @@
 <script type="text/javascript" src="jquery/jquery.js"></script>           
 <script type="text/javascript" src="jquery/jquery-ui.js"></script>        
 <script type="text/javascript" src="jquery/jquery-mousewheel.js"></script>
-<script type="text/javascript" src="jquery/jScrollbar.jquery.js"></script>
+<script type="text/javascript" src="jquery/jScrollbar.jquery.min.js"></script>
 <script type="text/javascript">                                           
 	$(document).ready(function(){
 		$('.jScrollbar1, .jScrollbar2, .jScrollbar3, .jScrollbar4, .jScrollbar5').jScrollbar();
